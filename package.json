@@ -14,7 +14,7 @@
     "lodash.get": "^4.4.2",
     "method-override": "^2.3.10",
     "minimatch": "3.0.2",
-    "mongoose": "^4.13.5",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "mpath": "^0.5.1",
     "mpromise": "^0.5.5",
